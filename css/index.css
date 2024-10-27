@@ -164,6 +164,7 @@ button {
 }
 .skills {
   width: 100%;
+  background: #fff;
 }
 .skills__wrapper {
   display: flex;
