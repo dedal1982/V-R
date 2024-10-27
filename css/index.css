@@ -403,3 +403,18 @@ button {
 .footer__social-list li a:hover {
   opacity: 0.5;
 }
+.footer__copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-top: auto;
+}
+.footer__copyright-title {
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 39px;
+  color: #ff340a;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+}
