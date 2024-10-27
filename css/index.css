@@ -67,7 +67,7 @@ button {
 .header__wrapper {
   max-width: 1366px;
   width: 100%;
-  margin: 0 auto;
+  margin: 32px auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -76,14 +76,19 @@ button {
   box-sizing: border-box;
 }
 .header__logo {
-  width: 56px;
-  height: 20px;
+  font-family: "Bakbak One", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #ff340a;
   margin-left: 36px;
+  margin-top: 5px;
 }
 .header__nav {
   display: flex;
   align-items: center;
-  gap: 33px;
+  gap: 31px;
 }
 .header__about {
   font-family: "Arya", sans-serif;
@@ -91,6 +96,23 @@ button {
   font-size: 20px;
   line-height: 20px;
   text-transform: uppercase;
+  color: #ff340a;
+  transition: all 0.2s ease-out;
+}
+.header__about:hover {
+  opacity: 0.5;
+}
+.header__task {
+  font-family: "Arya", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 36.18px;
+  text-transform: uppercase;
+  color: #ff340a;
+  transition: all 0.2s ease-out;
+}
+.header__task:hover {
+  opacity: 0.5;
 }
 .promo {
   width: 100%;
