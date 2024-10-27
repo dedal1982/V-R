@@ -169,7 +169,7 @@ button {
   display: flex;
   flex-direction: column;
   padding-top: 55px;
-  padding-bottom: 75px;
+  padding-bottom: 64px;
   box-sizing: border-box;
 }
 .skills__inner {
@@ -254,4 +254,11 @@ button {
 }
 .experience__wrapper {
   display: flex;
+}
+.experience__title {
+  font-family: "Ibarra Real Nova", serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 48px;
+  color: #ff340a;
 }
