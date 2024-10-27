@@ -169,7 +169,6 @@ button {
 .skills__wrapper {
   display: flex;
   flex-direction: column;
-  padding-top: 55px;
   padding-bottom: 64px;
   box-sizing: border-box;
 }
@@ -486,6 +485,8 @@ button {
   display: flex;
   overflow-x: hidden;
   background: #fff;
+  padding-top: 56px;
+  box-sizing: border-box;
 }
 
 .scroll div {
