@@ -3,12 +3,42 @@
 @import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&display=swap");
 @import url("https://fonts.cdnfonts.com/css/arial-2");
 @import url("https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arya:wght@400;700&display=swap");
 
 /* font-family: "Elsie", serif;
 font-family: "Ibarra Real Nova", serif;
 font-family: 'Arial', sans-serif;
-font-family: "Bakbak One", sans-serif; */
+font-family: "Bakbak One", sans-serif;
+font-family: "Arya", sans-serif; */
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
 
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
 .page {
   margin: 0 auto;
   padding: 0;
@@ -26,22 +56,41 @@ font-family: "Bakbak One", sans-serif; */
   padding-left: 40px;
   padding-right: 40px;
   box-sizing: border-box;
+  margin: 0 auto;
 }
 .header {
-  max-width: 1366px;
   width: 100%;
+  height: 84px;
   display: flex;
+  background: #f3f3f3;
 }
 .header__wrapper {
+  max-width: 1366px;
   width: 100%;
-  margin: 24px auto 29px;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
 }
 .header__logo {
   width: 56px;
   height: 20px;
+  margin-left: 36px;
+}
+.header__nav {
+  display: flex;
+  align-items: center;
+  gap: 33px;
+}
+.header__about {
+  font-family: "Arya", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  text-transform: uppercase;
 }
 .promo {
   width: 100%;
@@ -55,4 +104,17 @@ font-family: "Bakbak One", sans-serif; */
   padding-top: 120px;
   padding-bottom: 24px;
   box-sizing: border-box;
+}
+.promo__text {
+  max-width: 604px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.promo__title {
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 52px;
+  color: #ff340a;
 }
