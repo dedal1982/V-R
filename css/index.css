@@ -305,14 +305,17 @@ button {
 .works__wrapper {
   display: flex;
   flex-direction: column;
-  padding-top: 67px;
+  padding-top: 75px;
   box-sizing: border-box;
 }
 .works__title {
+  width: fit-content;
   font-family: "Ibarra Real Nova", serif;
   font-weight: 400;
   font-style: italic;
   font-size: 48px;
+  line-height: 45px;
   letter-spacing: 0.09rem;
   color: #ff340a;
+  border-bottom: 1px solid #ff340a;
 }
