@@ -480,3 +480,45 @@ button {
   background: #d9d9d9;
   margin: 204px auto 0;
 }
+/*-----------------SCROLL--------------------*/
+.scroll {
+  display: flex;
+  overflow-x: hidden;
+  background: #fff;
+}
+
+.scroll div {
+  padding: 0;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.div1 {
+  animation: marquee1 20s infinite linear;
+  animation-delay: -20s;
+}
+
+.div2 {
+  animation: marquee2 20s infinite linear;
+  animation-delay: -10s;
+}
+.scroll div:after {
+  content: url(../images/anime-1.png);
+}
+@keyframes marquee1 {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes marquee2 {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-200%);
+  }
+}
