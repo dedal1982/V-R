@@ -265,7 +265,8 @@ button {
 }
 .experience__text {
   display: flex;
-  margin-top: 104px;
+  margin-top: 105px;
+  gap: 162px;
 }
 .experience__left {
   display: flex;
@@ -279,4 +280,18 @@ button {
   line-height: 20px;
   color: #ff340a;
   letter-spacing: 0.03rem;
+}
+.experience__right {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+.experience__place {
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 20px;
+  color: #ff340a;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
 }
