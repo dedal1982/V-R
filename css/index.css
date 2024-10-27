@@ -254,7 +254,9 @@ button {
 }
 .experience__wrapper {
   display: flex;
-  gap: 255px;
+  gap: 240px;
+  padding-bottom: 75px;
+  box-sizing: border-box;
 }
 .experience__title {
   font-family: "Ibarra Real Nova", serif;
@@ -262,6 +264,7 @@ button {
   font-style: italic;
   font-size: 48px;
   color: #ff340a;
+  letter-spacing: 0.09rem;
 }
 .experience__text {
   display: flex;
@@ -295,4 +298,21 @@ button {
   color: #ff340a;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
+}
+.works {
+  width: 100%;
+}
+.works__wrapper {
+  display: flex;
+  flex-direction: column;
+  padding-top: 67px;
+  box-sizing: border-box;
+}
+.works__title {
+  font-family: "Ibarra Real Nova", serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 48px;
+  letter-spacing: 0.09rem;
+  color: #ff340a;
 }
