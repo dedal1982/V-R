@@ -2,19 +2,57 @@
 @import url("https://fonts.googleapis.com/css2?family=Elsie:wght@400;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&display=swap");
 @import url("https://fonts.cdnfonts.com/css/arial-2");
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap");
 
 /* font-family: "Elsie", serif;
 font-family: "Ibarra Real Nova", serif;
-font-family: 'Arial', sans-serif; */
+font-family: 'Arial', sans-serif;
+font-family: "Bakbak One", sans-serif; */
 
 .page {
   margin: 0 auto;
   padding: 0;
   font-family: "Inter", Arial, Helvetica, sans-serif;
-  max-width: 1280px;
+  width: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
+}
+.container {
+  max-width: 1366px;
+  width: 100%;
+  padding-left: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+.header {
+  max-width: 1366px;
+  width: 100%;
+  display: flex;
+}
+.header__wrapper {
+  width: 100%;
+  margin: 24px auto 29px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__logo {
+  width: 56px;
+  height: 20px;
+}
+.promo {
+  width: 100%;
+  background: #f3f3f3;
+}
+.promo__wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  padding-top: 120px;
+  padding-bottom: 24px;
+  box-sizing: border-box;
 }
