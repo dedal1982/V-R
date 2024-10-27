@@ -319,3 +319,27 @@ button {
   color: #ff340a;
   border-bottom: 1px solid #ff340a;
 }
+.works__inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 56px;
+}
+.works__item {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.works__item-img {
+  width: 415px;
+  height: 268px;
+  background: #d9d9d9;
+}
+.works__item-task {
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32.2px;
+  color: #ff340a;
+  text-transform: uppercase;
+}
