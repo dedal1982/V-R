@@ -254,6 +254,7 @@ button {
 }
 .experience__wrapper {
   display: flex;
+  gap: 255px;
 }
 .experience__title {
   font-family: "Ibarra Real Nova", serif;
@@ -261,4 +262,21 @@ button {
   font-style: italic;
   font-size: 48px;
   color: #ff340a;
+}
+.experience__text {
+  display: flex;
+  margin-top: 104px;
+}
+.experience__left {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+.skills__profession {
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ff340a;
+  letter-spacing: 0.03rem;
 }
