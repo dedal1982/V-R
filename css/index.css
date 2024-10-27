@@ -438,7 +438,7 @@ button {
 .task__top {
   display: flex;
   flex-direction: column;
-  gap: 82px;
+  gap: 66px;
   margin-top: 34px;
 }
 .task__top-title {
@@ -451,4 +451,26 @@ button {
   letter-spacing: 0.09rem;
   color: #ff340a;
   border-bottom: 1px solid #ff340a;
+}
+.task__top-inner {
+  display: flex;
+  gap: 158px;
+  margin-left: 17px;
+}
+.task__top-desc {
+  max-width: 387px;
+  width: 100%;
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 36px;
+  color: #ff340a;
+  letter-spacing: 0.05rem;
+  margin-top: 40px;
+}
+.task__video {
+  width: 634px;
+  height: 315px;
+  background: #d9d9d9;
 }
