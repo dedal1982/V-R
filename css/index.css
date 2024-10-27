@@ -474,3 +474,9 @@ button {
   height: 315px;
   background: #d9d9d9;
 }
+.task__main-video {
+  width: 885px;
+  height: 453px;
+  background: #d9d9d9;
+  margin: 204px auto 0;
+}
