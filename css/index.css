@@ -374,3 +374,32 @@ button {
   color: #ff340a;
   border-bottom: 1px solid #ff340a;
 }
+.footer__inner {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 39px;
+}
+.footer__social {
+  display: flex;
+  gap: 78px;
+}
+.footer__social-list {
+  display: flex;
+  flex-direction: column;
+}
+.footer__social-list li {
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 39px;
+  color: #ff340a;
+  letter-spacing: 0.05rem;
+}
+.footer__social-list li a {
+  color: #ff340a;
+  transition: all 0.2s ease-out;
+}
+.footer__social-list li a:hover {
+  opacity: 0.5;
+}
