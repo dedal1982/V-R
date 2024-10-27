@@ -418,3 +418,37 @@ button {
   letter-spacing: 0.05rem;
   text-transform: uppercase;
 }
+.task {
+  width: 100%;
+}
+.task__wrapper {
+  padding-top: 72px;
+  padding-bottom: 176px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.task__title {
+  font-family: "Elsie", serif;
+  font-weight: 400;
+  font-size: 128px;
+  line-height: 147.46px;
+  color: #ff340a;
+}
+.task__top {
+  display: flex;
+  flex-direction: column;
+  gap: 82px;
+  margin-top: 34px;
+}
+.task__top-title {
+  width: fit-content;
+  font-family: "Ibarra Real Nova", serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 48px;
+  line-height: 45px;
+  letter-spacing: 0.09rem;
+  color: #ff340a;
+  border-bottom: 1px solid #ff340a;
+}
