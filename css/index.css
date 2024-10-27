@@ -249,3 +249,9 @@ button {
   color: #bcbcbc;
   letter-spacing: 0.09rem;
 }
+.experience {
+  width: 100%;
+}
+.experience__wrapper {
+  display: flex;
+}
