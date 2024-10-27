@@ -354,3 +354,23 @@ button {
   height: 406px;
   background: #d9d9d9;
 }
+.footer {
+  width: 100%;
+}
+.footer__wrapper {
+  display: flex;
+  flex-direction: column;
+  padding-top: 62px;
+  padding-bottom: 85px;
+  box-sizing: border-box;
+}
+.footer__title {
+  width: fit-content;
+  font-family: "Ibarra Real Nova", serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 48px;
+  line-height: 45px;
+  color: #ff340a;
+  border-bottom: 1px solid #ff340a;
+}
