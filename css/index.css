@@ -306,6 +306,7 @@ button {
   display: flex;
   flex-direction: column;
   padding-top: 75px;
+  padding-bottom: 55px;
   box-sizing: border-box;
 }
 .works__title {
