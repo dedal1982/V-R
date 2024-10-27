@@ -162,3 +162,47 @@ button {
   width: 596px;
   height: 540px;
 }
+.skills {
+  width: 100%;
+}
+.skills__wrapper {
+  display: flex;
+  flex-direction: column;
+  padding-top: 55px;
+  padding-bottom: 75px;
+  box-sizing: border-box;
+}
+.skills__inner {
+  display: flex;
+  gap: 186px;
+  margin-top: 16px;
+}
+.skills__left {
+  display: flex;
+  flex-direction: column;
+}
+.skills__left-top {
+  display: flex;
+  gap: 30px;
+}
+.skills__time {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.skills__time span {
+  font-family: "Bakbak One", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 67.2px;
+  color: #ff340a;
+}
+.skills__university {
+  width: 358px;
+  font-family: "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 34px;
+  color: #ff340a;
+  margin-top: 55px;
+}
