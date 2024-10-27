@@ -284,13 +284,14 @@ button {
 .experience__right {
   display: flex;
   flex-direction: column;
-  margin-top: 15px;
+  margin-top: 6px;
+  gap: 52px;
 }
 .experience__place {
   font-family: "Arial", sans-serif;
   font-weight: 400;
   font-size: 28px;
-  line-height: 20px;
+  line-height: 38px;
   color: #ff340a;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
