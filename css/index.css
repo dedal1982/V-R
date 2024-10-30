@@ -328,7 +328,7 @@ button {
 .works__item-img {
   width: 415px;
   height: 268px;
-  background: #d9d9d9;
+  object-fit: cover;
 }
 .works__item-task {
   font-family: "Arial", sans-serif;
