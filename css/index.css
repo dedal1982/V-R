@@ -346,7 +346,7 @@ button {
 .works__item-img-big {
   width: 634px;
   height: 406px;
-  background: #d9d9d9;
+  object-fit: cover;
 }
 .footer {
   width: 100%;
