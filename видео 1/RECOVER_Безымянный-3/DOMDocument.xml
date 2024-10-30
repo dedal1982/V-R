@@ -1,0 +1,222 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 23.0 build 103" majorVersion="23" buildNumber="103" viewAngle3D="100.925968316201" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="009091486CC9B8468A8BD1D8CC2F1DF0">
+     <media>
+          <DOMBitmapItem name="photo_2024-10-27_16-20-03.jpg" itemID="671e55fa-000001d1" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-20-03.jpg" sourceLastImported="1730035452" externalFileCRC32="1536179162" externalFileSize="7814" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-20-03.jpg" bitmapDataHRef="M 1 1730041338.dat" frameRight="5680" frameBottom="7540" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-20-03.jpg - копия" itemID="671e571c-000001e8" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-20-03.jpg" sourceLastImported="1730035452" externalFileSize="7814" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-20-03.jpg" bitmapDataHRef="M 6 1730041626.dat" frameRight="5680" frameBottom="7540" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-20-19.jpg" itemID="671e5624-000001d5" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-20-19.jpg" sourceLastImported="1730035460" externalFileCRC32="1610243899" externalFileSize="7130" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-20-19.jpg" bitmapDataHRef="M 2 1730041380.dat" frameRight="5400" frameBottom="6960" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-20-19.jpg - копия" itemID="671e573b-000001ed" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-20-19.jpg" sourceLastImported="1730035460" externalFileSize="7130" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-20-19.jpg" bitmapDataHRef="M 7 1730041658.dat" frameRight="5400" frameBottom="6960" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-20-32.jpg" itemID="671e5646-000001d9" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-20-32.jpg" sourceLastImported="1730035467" externalFileCRC32="3060126902" externalFileSize="7096" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-20-32.jpg" bitmapDataHRef="M 3 1730041414.dat" frameRight="5500" frameBottom="6880" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-20-32.jpg - копия" itemID="671e578f-000001f2" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-20-32.jpg" sourceLastImported="1730035467" externalFileSize="7096" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-20-32.jpg" bitmapDataHRef="M 8 1730041741.dat" frameRight="5500" frameBottom="6880" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-20-43.jpg" itemID="671e57aa-000001f6" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-20-43.jpg" sourceLastImported="1730035473" externalFileCRC32="3205058306" externalFileSize="4957" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-20-43.jpg" bitmapDataHRef="M 9 1730041770.dat" frameRight="5100" frameBottom="6380" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-20-57.jpg" itemID="671e57c3-000001fa" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-20-57.jpg" sourceLastImported="1730035481" externalFileCRC32="3194635455" externalFileSize="6986" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-20-57.jpg" bitmapDataHRef="M 10 1730041795.dat" frameRight="5140" frameBottom="6800" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-21-09.jpg" itemID="671e57fe-000001fe" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-21-09.jpg" sourceLastImported="1730035487" externalFileCRC32="2583324843" externalFileSize="8083" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-21-09.jpg" bitmapDataHRef="M 11 1730041854.dat" frameRight="5800" frameBottom="7340" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-21-29.jpg" itemID="671e581d-00000202" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-21-29.jpg" sourceLastImported="1730035494" externalFileCRC32="1685674593" externalFileSize="7701" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-21-29.jpg" bitmapDataHRef="M 12 1730041885.dat" frameRight="6020" frameBottom="7240" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-22-06.jpg" itemID="671e584f-00000206" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-22-06.jpg" sourceLastImported="1730035500" externalFileCRC32="2411113585" externalFileSize="7005" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-22-06.jpg" bitmapDataHRef="M 13 1730041935.dat" frameRight="6140" frameBottom="7080" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-22-34.jpg" itemID="671e586b-0000020a" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-22-34.jpg" sourceLastImported="1730035506" externalFileCRC32="1091119618" externalFileSize="6707" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-22-34.jpg" bitmapDataHRef="M 14 1730041963.dat" frameRight="5340" frameBottom="7120" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-22-56.jpg" itemID="671e5887-0000020e" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-22-56.jpg" sourceLastImported="1730035513" externalFileCRC32="2474281669" externalFileSize="6982" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-22-56.jpg" bitmapDataHRef="M 15 1730041991.dat" frameRight="5460" frameBottom="7260" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-23-23.jpg" itemID="671e589c-00000212" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-23-23.jpg" sourceLastImported="1730035519" externalFileCRC32="3040944408" externalFileSize="7748" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-23-23.jpg" bitmapDataHRef="M 16 1730042012.dat" frameRight="5380" frameBottom="7260" isJPEG="true"/>
+          <DOMBitmapItem name="photo_2024-10-27_16-23-37.jpg" itemID="671e58b4-00000216" sourceExternalFilepath="./LIBRARY/photo_2024-10-27_16-23-37.jpg" sourceLastImported="1730035525" externalFileCRC32="3426104017" externalFileSize="7710" allowSmoothing="true" quality="50" href="photo_2024-10-27_16-23-37.jpg" bitmapDataHRef="M 17 1730042036.dat" frameRight="5620" frameBottom="7180" isJPEG="true"/>
+     </media>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1" currentFrame="36" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Слой_12" color="#FF4FFF">
+                         <frames>
+                              <DOMFrame index="0" duration="34" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="34" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-23-37.jpg">
+                                             <matrix>
+                                                  <Matrix tx="459" ty="206"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_11" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="31" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-23-23.jpg">
+                                             <matrix>
+                                                  <Matrix tx="465" ty="197"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_10" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" duration="28" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="28" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-22-56.jpg">
+                                             <matrix>
+                                                  <Matrix tx="467" ty="193"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_9" color="#00FFFF">
+                         <frames>
+                              <DOMFrame index="0" duration="25" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="25" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-22-34.jpg">
+                                             <matrix>
+                                                  <Matrix tx="468" ty="205"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_8" color="#FF4F4F">
+                         <frames>
+                              <DOMFrame index="0" duration="22" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="22" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-22-06.jpg">
+                                             <matrix>
+                                                  <Matrix tx="444" ty="201"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_7" color="#669900">
+                         <frames>
+                              <DOMFrame index="0" duration="19" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-21-29.jpg">
+                                             <matrix>
+                                                  <Matrix tx="459" ty="206"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_6" color="#FF0000">
+                         <frames>
+                              <DOMFrame index="0" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="16" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-21-09.jpg">
+                                             <matrix>
+                                                  <Matrix tx="456" ty="186"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_5" color="#009999">
+                         <frames>
+                              <DOMFrame index="0" duration="13" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-20-57.jpg">
+                                             <matrix>
+                                                  <Matrix tx="453" ty="214"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_4" color="#FF4FFF">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-20-43.jpg">
+                                             <matrix>
+                                                  <Matrix tx="462" ty="215"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_3" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-20-32.jpg - копия">
+                                             <matrix>
+                                                  <Matrix tx="456" ty="200"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-20-19.jpg - копия">
+                                             <matrix>
+                                                  <Matrix tx="459" ty="198"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="photo_2024-10-27_16-20-03.jpg - копия">
+                                             <matrix>
+                                                  <Matrix tx="468" ty="186"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>
